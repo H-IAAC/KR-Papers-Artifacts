@@ -6,6 +6,14 @@ H.IAAC Knowledge Representation papers artifacts
 
 Code: [https://github.com/salocinrevenge/TFC-pretraining](https://github.com/salocinrevenge/TFC-pretraining)
 
+## 2024 BRACIS -- Impact of Pre-training Datasets on Human Activity Recognition with Contrastive Predictive Coding
+
+Code: https://github.com/betaniarodrigues/CPC
+
 ## 2024 BRACIS -- An Evaluation of Temporal Neighborhood Coding Variants in Smartphone-Based Human Activity Recognition
 
 Code: https://github.com/gustavo-luz/TNC_variations_HAR
+
+## 2024 BRACIS -- Comparing LIME and SHAP global explanations for Human Activity Recognition
+
+Code: https://github.com/H-IAAC/XAI-HAR
