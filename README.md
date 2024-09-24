@@ -4,7 +4,7 @@ H.IAAC Knowledge Representation papers artifacts
 
 ## 2024 BRACIS -- An Analysis of Time-Frequency Consistency in Human Activity Recognition
 
-Code: [https://github.com/salocinrevenge/TFC-pretraining](https://github.com/salocinrevenge/TFC-pretraining)
+Code: [https://github.com/H-IAAC/TFC-HAR](https://github.com/H-IAAC/TFC-HAR)
 
 ## 2024 BRACIS -- Impact of Pre-training Datasets on Human Activity Recognition with Contrastive Predictive Coding
 
