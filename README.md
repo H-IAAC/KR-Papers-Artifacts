@@ -8,7 +8,7 @@ Code: http....
 
 ## 2024 BRACIS -- Impact of Pre-training Datasets on Human Activity Recognition with Contrastive Predictive Coding
 
-Code: https://github.com/betaniarodrigues/CPC
+Code: https://github.com/H-IAAC/CPC-HAR
 
 ## 2024 BRACIS -- An Evaluation of Temporal Neighborhood Coding Variants in Smartphone-Based Human Activity Recognition
 
